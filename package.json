@@ -1,5 +1,5 @@
 {
-  "name": "my-project",
+  "name": "auth0-vue",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,6 +7,8 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "auth0-js": "^9.1.3",
+    "axios": "^0.17.1",
     "vue": "^2.5.13",
     "vue-router": "^3.0.1"
   },
