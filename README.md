@@ -32,5 +32,5 @@ I'm looking forward to receive your feedback, best place would definitly be in t
 
 ## What to expect
 
-This application/tutorial gives you a quick feeling of how to use Auth0 with your Vue.js application in a way more easier way than currently described.
+This application/tutorial gives you a quick feeling of how to use Auth0 with your Vue.js application, you can also use it as a starting point for your projects.
 
