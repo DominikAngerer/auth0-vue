@@ -14,7 +14,7 @@ export default {
 </script>
 
 <style>
-  .callback {
+.callback {
   width: 40px;
   height: 40px;
   background-color: #333;
