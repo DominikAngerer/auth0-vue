@@ -1,5 +1,7 @@
 # Auth0 Vue
 
+Make sure to exchnage the auth0 information with your own in the `auth.js`.
+
 ## A Vue.js Demo Application which uses Auth0 for Authentication
 
 ![Final Result](https://img.storyblok.com/8hXRKaQfX1jUBSk8jcul2xZdBZM=/957x0/f/39898/2466x1760/dab8c6f648/final-result.png)
