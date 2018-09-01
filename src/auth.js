@@ -59,7 +59,10 @@ let auth = new Vue({
         localStorage.removeItem('id_token')
         localStorage.removeItem('expires_at')
         localStorage.removeItem('user')
-        webAuth.authorize()
+        webAuth.logout({
+          returnTo: 'http://SOMEWHERE.ELSE.com', // Allowed logout URL listed in dashboard
+          clientID: 'YOUR_CLIENT_ID_HERE', // Your client ID
+        })
       })
     },
     isAuthenticated() {
